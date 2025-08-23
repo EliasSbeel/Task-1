@@ -157,6 +157,9 @@
         border-radius: 20px;
         text-align: center;
     }
+    .container .search-style {
+        padding: 10px;
+    }
     .content .card {
         flex: 1 1 100%; 
     }
